@@ -34,8 +34,6 @@ Full Stack Dev
 
 <p align="left"> <a href="https://www.github.com/hicham4i" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/hicham4i"><img src="https://github-readme-stats.vercel.app/api?username=hicham4i&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="hicham4i's GitHub stats" /></a>
