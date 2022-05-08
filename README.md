@@ -4,8 +4,9 @@ Hi My name is Hicham Rabai
 Full Stack Dev
 --------------
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [hicham.rabai@outlook.fr](mailto:hicham.rabai@outlook.fr)
+* I'm based in Morocco
+* You can contact me at [hicham.rabai@outlook.fr](mailto:hicham.rabai@outlook.fr)
+* Check my experiences here : [https://hicham4i.github.io/](https://hicham4i.github.io/)
 
 ### Skills
 
